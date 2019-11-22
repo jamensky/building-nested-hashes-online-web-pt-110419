@@ -17,8 +17,6 @@ def fourth_challenge
                            :age => "30",
                            :attitude => "confused"
                           }]
-
-      ]
    }
 }
 
